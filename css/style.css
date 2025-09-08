@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png) ;
+    background-size: 220px;
+}
+
+.logo{
+    padding-top: 1%;
+    width: 200px;
+    margin-left: 10px;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.testo{
+    margin: 10px;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.list{
+    margin: 10px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.blue-white{
+    background-color: #1E90FF;
+    color: white;
+}
+
+.blue-dark{
+    background-color: #c4f7f7;
+}
